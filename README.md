@@ -4,6 +4,6 @@ The dataset used for finetuning was the `CoNLL-2003` dataset, which contains new
 
 The finetuned Named Entity Recognition model can be tested [here](https://huggingface.co/thuann2cats/bert-finetuned-ner-HF-tutorial-using-Trainer), thanks to HuggingFace's awesome Inference API.
 
-![Inference-API-NER-HF.PNG](attachment:image.png)
+![Inference-API-NER-HF.PNG](Inference-API-NER-HF.PNG)
 
 
